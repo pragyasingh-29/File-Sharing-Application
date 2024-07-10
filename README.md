@@ -1,5 +1,7 @@
 # File-Sharing-Application
 
+##### This application allows us to share files with each other. After uploading  the file a random link is generated which could be shared to anyone to download the file.
+
 ###  https://www.loom.com/share/0ae58e262ddd4846a7b638c30f7471e7?sid=8a03519a-a7f6-4837-9975-092e75ff9cc1 (Visit to see demo)
 
 # Screenshots 
